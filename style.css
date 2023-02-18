@@ -1,0 +1,12 @@
+.app {
+  max-width: 70ch;
+  padding: 2ch;
+  margin: auto;
+}
+
+p,
+ul,
+ol {
+  margin-bottom: 2em;
+  color: #1d1d1d;
+}
